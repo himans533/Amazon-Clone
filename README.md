@@ -1,9 +1,21 @@
 
+
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+
 # Amazon Clone Website
 
 This project is a clone of the popular e-commerce website Amazon. It aims to replicate the core features and user experience of Amazon, allowing users to browse products, add them to cart, and make purchases.
 
-## <h1 style:"color-red" >Installation </h1>
+## Installation 
 
 1. Clone the repository:
     git clone https://github.com/your-username/amazon-clone.git 
