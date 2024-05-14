@@ -12,7 +12,7 @@ h1 {
 ![Screenshot](path/to/screenshot.png)
 
 
-# Amazon Clone Website [Heading link]
+# Amazon Clone Website [Heading link] (https://github.com/pandao/editor.md "Heading link")
 
 This project is a clone of the popular e-commerce website Amazon. It aims to replicate the core features and user experience of Amazon, allowing users to browse products, add them to cart, and make purchases.
 
