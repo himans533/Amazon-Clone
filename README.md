@@ -7,9 +7,6 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
-```css
-
-![Screenshot](path/to/screenshot.png)
 
 
 # Amazon Clone Website [Heading link] (https://github.com/pandao/editor.md "Heading link")
@@ -68,14 +65,3 @@ Acknowledgements: Optionally, you can acknowledge individuals or projects that h
 - Thanks to the contributors of [React](https://reactjs.org) and [Redux](https://redux.js.org) for providing excellent libraries.
 Make sure to replace the placeholder content with relevant information about your Amazon clone website. Additionally, format your README.md file using Markdown syntax for better readability.
 
-###FlowChart
-
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
