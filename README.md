@@ -9,6 +9,7 @@ body {
 h1 {
     color: #333;
 }
+![Screenshot](path/to/screenshot.png)
 
 
 # Amazon Clone Website
