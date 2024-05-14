@@ -8,14 +8,7 @@
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 ```css
-body {
-    font-family: Arial, sans-serif;
-    
-}
 
-h1 {
-    color: #333;
-}
 ![Screenshot](path/to/screenshot.png)
 
 
@@ -74,3 +67,15 @@ Acknowledgements: Optionally, you can acknowledge individuals or projects that h
 - Special thanks to [Amazon](https://www.amazon.com) for inspiring this project.
 - Thanks to the contributors of [React](https://reactjs.org) and [Redux](https://redux.js.org) for providing excellent libraries.
 Make sure to replace the placeholder content with relevant information about your Amazon clone website. Additionally, format your README.md file using Markdown syntax for better readability.
+
+###FlowChart
+
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
