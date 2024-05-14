@@ -65,3 +65,9 @@ Acknowledgements: Optionally, you can acknowledge individuals or projects that h
 - Thanks to the contributors of [React](https://reactjs.org) and [Redux](https://redux.js.org) for providing excellent libraries.
 Make sure to replace the placeholder content with relevant information about your Amazon clone website. Additionally, format your README.md file using Markdown syntax for better readability.
 
+###Tables
+                    
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell 
